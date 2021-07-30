@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://artemkoff.github.io/sitemap.xml
